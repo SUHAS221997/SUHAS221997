@@ -1,6 +1,3 @@
-👋 Hi, I'm Suhas Y S!
-🔍 Risk Analyst | 📊 Aspiring Data Scientist | 🚀 Passionate about data-driven decision making, machine learning, and predictive analytics.
-
 I’m currently working as a Risk Analyst, where I analyze data to identify and mitigate risks in business operations. My role has allowed me to develop a strong foundation in data analysis, statistical modeling, and creating reports to support decision-making processes.
 As I’ve worked with data, my curiosity for understanding patterns and leveraging data for predictive purposes has grown, and I am now transitioning into data science. I am excited to apply my analytical skills in machine learning, data analysis, and predictive modeling to solve complex problems and uncover insights that can drive business strategy.
 
