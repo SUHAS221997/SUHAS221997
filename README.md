@@ -10,6 +10,7 @@ Programming Languages: Python
 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Tableau
 Machine Learning: Scikit-learn, XGBoost, Random Forest, Neural Networks
 Tools: Jupyter, Git, Excel, Tableau, Google Analytics
+
 Other Interests: Time Series Forecasting, Natural Language Processing (NLP), Deep Learning
 
 My Current Focus:
@@ -18,7 +19,6 @@ Enhancing my skills in data visualization and data cleaning.
 Participating in Kaggle competitions to apply my skills and learn from the global data science community.
 Learning advanced topics in deep learning and NLP to expand my expertise.
 
-Why Data Science?
 As a Risk Analyst, I have seen firsthand how valuable data can be for making informed decisions. This has sparked my passion for leveraging machine learning algorithms to build predictive models and uncover actionable insights. I am motivated to transition into a Data Scientist role where I can apply these techniques to solve complex problems, enhance business outcomes, and drive innovation.
 
 Let's Connect!
