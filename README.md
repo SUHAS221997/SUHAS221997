@@ -13,7 +13,7 @@ Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, PowerBI
 
 Machine Learning: Scikit-learn, XGBoost, Random Forest, Neural Networks
 
-Tools: Jupyter, Git, Excel, Tableau, Google Analytics
+Tools: Python, Git, Excel, MY-SQL, PowerBI, Linux
 
 Other Interests: Time Series Forecasting, Natural Language Processing (NLP), Deep Learning
 
