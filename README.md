@@ -11,11 +11,9 @@ Programming Languages: Python
 
 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, PowerBI
 
-Machine Learning: Scikit-learn, XGBoost, Random Forest, Neural Networks
+Machine Learning: Scikit-learn, XGBoost, Random Forest, Time Series Forecasting, Natural Language Processing (NLP), Deep Learning Neural Networks, Transformers, GENAI, HuggingFace-LLM's, Langchain, Pinecone-DB
 
 Tools: Python, Git, Excel, MY-SQL, PowerBI, Linux
-
-Other Interests: Time Series Forecasting, Natural Language Processing (NLP), Deep Learning
 
 My Current Focus:
 Building predictive models using machine learning techniques (classification, regression).
