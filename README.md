@@ -20,8 +20,6 @@ Other Interests: Time Series Forecasting, Natural Language Processing (NLP), Dee
 My Current Focus:
 Building predictive models using machine learning techniques (classification, regression).
 Enhancing my skills in data visualization and data cleaning.
-Participating in Kaggle competitions to apply my skills and learn from the global data science community.
-Learning advanced topics in deep learning and NLP to expand my expertise.
 
 As a Risk Analyst, I have seen firsthand how valuable data can be for making informed decisions. This has sparked my passion for leveraging machine learning algorithms to build predictive models and uncover actionable insights. I am motivated to transition into a Data Scientist role where I can apply these techniques to solve complex problems, enhance business outcomes, and drive innovation.
 
